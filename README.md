@@ -1,2 +1,4 @@
 # demo_git
-Une demo git
+Une demo git.
+Auteur: Gatindien
+Profil: Developpeur web
